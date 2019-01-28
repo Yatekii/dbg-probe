@@ -1,0 +1,10 @@
+[package]
+name = "dbg-probe"
+version = "0.1.0"
+authors = ["Noah Hüsser <yatekii@yatekii.ch>"]
+edition = "2018"
+
+[dependencies]
+log = "0.4"
+libusb = "0.3"
+lazy_static = "*"
