@@ -1,5 +1,4 @@
-mod probes;
-mod protocol;
+pub mod protocol;
 mod common;
 
 #[cfg(test)]
